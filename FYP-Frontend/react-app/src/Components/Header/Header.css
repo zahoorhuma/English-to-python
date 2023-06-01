@@ -1,0 +1,10 @@
+.header-div{
+    height: 7vh;
+    box-shadow: rgb(160 157 35) 0px 5px 15px;
+}
+
+.header-div section{
+    padding: 6px;
+    font-style: italic;
+    font-weight: 700;
+}

@@ -1,0 +1,8 @@
+.App {
+  background-image: url('./Assets/home_head_parallax.jpg');
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
